@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/revanth.github.io/static/css/main.ffc2b485.css",
+    "main.js": "/revanth.github.io/static/js/main.e5c8a848.js",
+    "static/js/787.63e47474.chunk.js": "/revanth.github.io/static/js/787.63e47474.chunk.js",
+    "static/media/to-do-list.png": "/revanth.github.io/static/media/to-do-list.daddab8bf9c922a926ea.png",
+    "index.html": "/revanth.github.io/index.html",
+    "main.ffc2b485.css.map": "/revanth.github.io/static/css/main.ffc2b485.css.map",
+    "main.e5c8a848.js.map": "/revanth.github.io/static/js/main.e5c8a848.js.map",
+    "787.63e47474.chunk.js.map": "/revanth.github.io/static/js/787.63e47474.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ffc2b485.css",
+    "static/js/main.e5c8a848.js"
+  ]
+}
