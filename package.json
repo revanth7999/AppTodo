@@ -1,7 +1,7 @@
 {
   "name": "todo",
   "version": "0.1.0",
-  "homepage": "https://revanth7999.github.io/revanth.github.io",
+  "homepage": "https://revanth7999.github.io/AppTodo/",
   "private": true,
   "dependencies": {
     "@ant-design/icons": "^5.2.5",
