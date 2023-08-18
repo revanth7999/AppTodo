@@ -1,0 +1,41 @@
+.Textbox {
+    width: 50vh;
+    margin: 2vh;
+}
+
+.InButton {
+    margin-bottom: 2vh;
+}
+
+.Map-parent {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 5;
+    margin-left: 70vh;
+    margin-right: 50vh;
+    margin-bottom: 2vh;
+}
+
+.Delete-icon{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+@media (max-width: 768px) {
+    .Textbox {
+        width: 20vh;
+        margin: 2vh;
+    }
+
+    .Map-parent {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        padding: 5;
+        margin-left: 2vh;
+        margin-right: 8vh;
+        margin-bottom: 2vh;
+    }
+}
